@@ -1,4 +1,4 @@
-👨‍💻 Computer Science Student | University of Twente
+👨‍💻 Technical Computer Science Student | University of Twente
 
 Hello there! I'm Dimitris, a dedicated student pursuing a degree in Technical Computer Science at the University of Twente. With a deep-rooted passion for programming, I love exploring the intricate world of computer science and turning ideas into reality.
 
@@ -11,7 +11,9 @@ Hello there! I'm Dimitris, a dedicated student pursuing a degree in Technical Co
 🌐 Let's connect and share our passion for computer science! Reach out to me via email or social media links below. I'm always eager to learn, collaborate, and contribute to the tech community.
 
 📧 Email: wot.mits@gmail.com
+
 🌐 LinkedIn: https://www.linkedin.com/in/dimlol/
+
 📷 Instagram: https://www.instagram.com/dimi_lolis/?hl=en
 
 Looking forward to connecting with fellow programmers, students, and tech enthusiasts. Together, let's shape the future through the power of code! ✨
