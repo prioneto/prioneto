@@ -18,5 +18,5 @@ Hello there! I'm Dimitris, a dedicated student pursuing a degree in Technical Co
 
 📷 Instagram: https://www.instagram.com/dimi_lolis/?hl=en
 
-Looking forward to connecting with fellow programmers, students, and tech enthusiasts. Together, let's shape the future through the power of code! ✨
+
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/prioneto/langs)](https://githubtrends.io)
