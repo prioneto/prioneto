@@ -17,6 +17,3 @@ Hello there! I'm Dimitris, a dedicated student pursuing a degree in Technical Co
 🌐 LinkedIn: https://www.linkedin.com/in/dimlol/
 
 📷 Instagram: https://www.instagram.com/dimi_lolis/?hl=en
-
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/prioneto/langs)](https://githubtrends.io)
